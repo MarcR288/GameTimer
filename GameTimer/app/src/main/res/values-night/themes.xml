@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- Define a light theme -->
+    <style name="Theme.GameTimer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Ensure this theme uses light background and text -->
+        <item name="android:windowBackground">@android:color/white</item> <!-- Light background -->
+        <item name="android:textColor">@android:color/black</item> <!-- Light text color -->
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item> <!-- Light primary color -->
+        <item name="android:colorAccent">@android:color/holo_blue_dark</item> <!-- Accent color -->
+    </style>
+</resources>

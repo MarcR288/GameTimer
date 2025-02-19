@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GameTimer</string>
+    <string name="title_activity_timer1">TimerActivity1</string>
+    <string name="enter_timer_1_text">Enter Time for player 1</string>
+    <string name="enter_timer_2_text">Enter Time for player 2</string>
+    <string name="enter_timer_1_Increment_text">Enter Time inc for player 1</string>
+    <string name="enter_timer_2_Increment_text">Enter Time inc for player 2</string>
+</resources>
